@@ -8,8 +8,6 @@
 
 
 <div align="center">
-
-### 🔗 Resources
 <a href="https://arxiv.org/html/2604.15652v1">
   <img src="https://img.shields.io/badge/Paper-ArXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white">
 </a>

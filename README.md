@@ -4,39 +4,16 @@
 ## Perturbation-Injected Open-Vocabulary Remote Sensing Segmentation
 
 **Official implementation of Pi-Seg on CAT-Seg framework for OVRSISBenchV2**
-
-[![Paper](https://img.shields.io/badge/Paper-ArXiv-red?style=flat-square)](https://arxiv.org/html/2604.15652v1)
-[![Benchmark](https://img.shields.io/badge/Benchmark-OVRSISBenchV2-blue?style=flat-square)](#Pi-Seg)
-[![Dataset](https://img.shields.io/badge/Dataset-OVRSIS95K-green?style=flat-square)](#ovrsis95k)
-[![Model](https://img.shields.io/badge/Model-Pi--Seg-orange?style=flat-square)](#pi-seg)
-
-
-[Paper](https://arxiv.org/html/2604.15652v1)
-
-[Hugging Face: OVRSIS95K](https://huggingface.co/datasets/kkk2026/OVRSIS95K) &nbsp;&nbsp;&nbsp;
-[Hugging Face: OVRSISBenchV2_OVRSIS](https://huggingface.co/datasets/kkk2026/OVRSISBenchtest) &nbsp;&nbsp;&nbsp;
-[Hugging Face: OVRSISBenchV2_other3task](https://huggingface.co/datasets/kkk2026/OVRSISBenchV2o3)
-
-[Hugging Face: Pi-Seg weights for OVRSISBenchV1](https://huggingface.co/kkk2026/Pi-Seg_for_OVRSISBenchV1)&nbsp;&nbsp;&nbsp;
-[Hugging Face: Pi-Seg weights for OVRSISBenchV2](https://huggingface.co/kkk2026/Pi-Seg_for_OVRSISBenchV2)
-
 </div>
 
 
 <div align="center">
 
 ### 🔗 Resources
-
 <a href="https://arxiv.org/html/2604.15652v1">
   <img src="https://img.shields.io/badge/Paper-ArXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white">
 </a>
-
-<br><br>
-
 <b>📦 Datasets & Benchmarks</b>
-
-<br><br>
-
 <a href="https://huggingface.co/datasets/kkk2026/OVRSIS95K">
   <img src="https://img.shields.io/badge/OVRSIS95K-Training%20Dataset-FFD21E?style=for-the-badge">
 </a>
@@ -49,12 +26,7 @@
   <img src="https://img.shields.io/badge/OVRSISBenchV2-3%20Downstream%20Tasks-3776AB?style=for-the-badge">
 </a>
 
-<br><br>
-
 <b>🤗 Pretrained Models</b>
-
-<br><br>
-
 <a href="https://huggingface.co/kkk2026/Pi-Seg_for_OVRSISBenchV1">
   <img src="https://img.shields.io/badge/Pi--Seg-OVRSISBenchV1%20Weights-F28C28?style=for-the-badge">
 </a>
@@ -62,7 +34,6 @@
 <a href="https://huggingface.co/kkk2026/Pi-Seg_for_OVRSISBenchV2">
   <img src="https://img.shields.io/badge/Pi--Seg-OVRSISBenchV2%20Weights-F28C28?style=for-the-badge">
 </a>
-
 </div>
 
 ---

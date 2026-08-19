@@ -6,8 +6,8 @@
 **Official implementation of Pi-Seg on CAT-Seg framework for OVRSISBenchV2**
 </div>
 
-
 <div align="center">
+  
 <a href="https://arxiv.org/html/2604.15652v1">
   <img src="https://img.shields.io/badge/Paper-ArXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white">
 </a>
@@ -15,11 +15,9 @@
 <a href="https://huggingface.co/datasets/kkk2026/OVRSIS95K">
   <img src="https://img.shields.io/badge/OVRSIS95K-Training%20Dataset-FFD21E?style=for-the-badge">
 </a>
-&nbsp;
 <a href="https://huggingface.co/datasets/kkk2026/OVRSISBenchtest">
   <img src="https://img.shields.io/badge/OVRSISBenchV2-OVRSIS%20Test-3776AB?style=for-the-badge">
 </a>
-&nbsp;
 <a href="https://huggingface.co/datasets/kkk2026/OVRSISBenchV2o3">
   <img src="https://img.shields.io/badge/OVRSISBenchV2-3%20Downstream%20Tasks-3776AB?style=for-the-badge">
 </a>
@@ -27,10 +25,10 @@
 <a href="https://huggingface.co/kkk2026/Pi-Seg_for_OVRSISBenchV1">
   <img src="https://img.shields.io/badge/Pi--Seg-OVRSISBenchV1%20Weights-F28C28?style=for-the-badge">
 </a>
-&nbsp;
 <a href="https://huggingface.co/kkk2026/Pi-Seg_for_OVRSISBenchV2">
   <img src="https://img.shields.io/badge/Pi--Seg-OVRSISBenchV2%20Weights-F28C28?style=for-the-badge">
 </a>
+
 </div>
 
 ---

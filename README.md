@@ -8,11 +8,11 @@
 
 <div align="center">
   
-<a href="https://arxiv.org/abs/2604.15652v2">
+V1 <a href="https://arxiv.org/abs/2604.15652v2">
   <img src="https://img.shields.io/badge/Paper-ArXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white">
 </a>
 
-<a href="https://arxiv.org/abs/2604.15652">
+V2 <a href="https://arxiv.org/abs/2604.15652">
   <img src="https://img.shields.io/badge/Paper-ArXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white">
 </a>
 
